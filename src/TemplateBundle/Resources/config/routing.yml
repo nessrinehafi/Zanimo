@@ -1,0 +1,7 @@
+template_homepage:
+    path:     /
+    defaults: { _controller: TemplateBundle:Default:index }
+
+template_Contact:
+    path:     /Contact
+    defaults: { _controller: TemplateBundle:Default:Contact }
